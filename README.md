@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hodibence
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on SpringBoot projects
+- 🌱 I’m currently learning Java,Angular,Springboot
 - 📫 Contact me for more on https://www.linkedin.com/in/bence-hodi
 
 
