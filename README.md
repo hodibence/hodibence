@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hodibence
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java,Angular,Springboot
+- 🌱 I’m currently learning Javascript 
+- 👀 Next goasl to learn JS frameworks especially React
 - 📫 Contact me for more on https://www.linkedin.com/in/bence-hodi
 
 
